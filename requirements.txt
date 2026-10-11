@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.26
+matplotlib>=3.8
+pandas>=2.0
+pillow>=9.0
+skillsnetwork
+httpx
+jupyter>=1.0
